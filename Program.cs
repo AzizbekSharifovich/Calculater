@@ -1,23 +1,27 @@
-﻿using System;
-
+﻿
 namespace Calculator
 {
     class Program
     {
         static void Main()
         {
-            Console.WriteLine("Ismingizni kiriting:");
-            string ism = Console.ReadLine();
+            Console.WriteLine("Enter values:");
+            Console.Write("First number: ");
+            string firstUserValue = Console.ReadLine();
 
-            Console.WriteLine("Yoshingizni kiriting:");
-            int yosh = Convert.ToInt32(Console.ReadLine());
+            Console.Write("\n Second number:");
+            string secondUserValue = Console.ReadLine();
 
-            Console.WriteLine("Yashash joyingizni kiriting:");
-            string joy = Console.ReadLine();
+            Console.WriteLine("Converting values in progress...");
+            decimal firstNumber = Convert.ToDecimal(firstUserValue);
+            decimal secondNumber = Convert.ToDecimal(secondUserValue);
 
-            Console.WriteLine($"Sizning ismingiz: {ism}");
-            Console.WriteLine($"Sizning yoshingiz: {yosh}");
-            Console.WriteLine($"Siz {joy} da yashaysiz.");
+            Console.WriteLine("Here are your results:");
+            Console.WriteLine($"{firstNumber} + {secondNumber} = {firstNumber + secondNumber}");
+            Console.WriteLine($"{firstNumber} - {secondNumber} = {firstNumber - secondNumber}");
+            Console.WriteLine($"{firstNumber} * {secondNumber} = {firstNumber * secondNumber}");
+            Console.WriteLine($"{firstNumber} / {secondNumber} = {firstNumber / secondNumber}");
+            Console.WriteLine($"{firstNumber} % {secondNumber} = {firstNumber % secondNumber}");
         }
     }
 }

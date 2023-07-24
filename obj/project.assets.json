@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\.Net_group\\Calculater\\Calculater.csproj",
+      "projectUniqueName": "c:\\Users\\ASUS\\.NET_Learning_new\\Calculater\\Calculater.csproj",
       "projectName": "Calculater",
-      "projectPath": "C:\\Users\\ASUS\\.Net_group\\Calculater\\Calculater.csproj",
+      "projectPath": "c:\\Users\\ASUS\\.NET_Learning_new\\Calculater\\Calculater.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\.Net_group\\Calculater\\obj\\",
+      "outputPath": "c:\\Users\\ASUS\\.NET_Learning_new\\Calculater\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

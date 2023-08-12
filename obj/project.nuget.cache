@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Fvof+K8G4295Wd4mcWz8eAwtRS1LK9EJnyqH7A+Dd497/cYCA+ydQQccWLGKL+XH1TqyMgWqJTOcjSqBjV8z5w==",
+  "dgSpecHash": "SA7HSuBCnJ8NgzqQJeiPwBWYMjyPGRiJDQqGpTaACmN1YbmduweOq0mdrKz8UV3uhr+13AJc/BHrW+jLHMTw0g==",
   "success": true,
   "projectFilePath": "C:\\Users\\ASUS\\.NET_Learning_new\\Calculater\\Calculater.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,5 @@
+C:\Users\ASUS\.NET_Learning_new\Calculater\obj\Debug\net7.0\Calculater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\.NET_Learning_new\Calculater\obj\Debug\net7.0\Calculater.AssemblyInfoInputs.cache
+C:\Users\ASUS\.NET_Learning_new\Calculater\obj\Debug\net7.0\Calculater.AssemblyInfo.cs
+C:\Users\ASUS\.NET_Learning_new\Calculater\obj\Debug\net7.0\Calculater.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\.NET_Learning_new\Calculater\obj\Debug\net7.0\Calculater.sourcelink.json

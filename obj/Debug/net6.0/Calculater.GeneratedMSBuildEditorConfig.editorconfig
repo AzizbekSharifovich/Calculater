@@ -9,4 +9,3 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Calculater
 build_property.ProjectDir = C:\Users\ASUS\.NET_Learning_new\Calculater\
-build_property.EnableComHosting = 
